@@ -86,6 +86,10 @@ LANGUAGE ~Russian (translation by prowler)~
 		 ~imnesvale/lang/english/setup.tra~
 		 ~imnesvale/lang/russian/setup.tra~
 
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish~
+		 ~imnesvale/lang/polish/setup.tra~
+		 ~imnesvale/lang/polish/misc.tra~
 
 /* ====================== *
  *  Imnesvale Mod : Easy  *
