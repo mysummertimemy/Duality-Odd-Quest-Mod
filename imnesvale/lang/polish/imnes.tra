@@ -1,0 +1,115 @@
+/* --------- *
+ *  Dialogs  *
+ * --------- */
+// dujug.d
+// -------
+@1  = ~Kim jesteœcie? Niewa¿ne, przyby³em podbiæ to nêdzne miasteczko. To tylko krótki przystanek na mojej drodze do podboju œwiata. Padnijcie na kolana przed swoim nowym panem, a mo¿e oszczêdzê wasze ¿a³osne ¿ycia.~
+@2  = ~Um. Czy ty w ogóle wiesz, z kim masz do czynienia, czy jesteœ po prostu kolejnym têpym megalomanem? Stawiam na to drugie.~
+@3  = ~Yyy. Czeœæ.~
+@4  = ~Bogowie, tylko nie kolejny. Czy ja dzia³am jak magnes na szaleñców, czy coœ jest w tej wodzie?~
+@5  = ~Co? Robak œmie siê do mnie odzywaæ? No dobrze, marnoto, mów.~
+@6  = ~Niech to, czemu, czemu, czemu zawsze ja? Odejdziesz po dobroci, czy mam ci roztrzaskaæ czaszkê?~
+@7  = ~Yyy. W czym mo¿emy pomóc?~
+@8  = ~Œmiesz... mnie... obra¿aæ?! Ha! Nie splamiê ostrza krwi¹ kogoœ tak ¿a³osnego jak ty. Padnijcie przed moimi s³ugami!~
+@9  = ~Daj spokój i zmykaj.~
+@10 = ~Wszyscy mówili, ¿e jestem szalony, ale jeszcze im poka¿ê... Udowodniê, ¿e nasz wszechœwiat jest tylko ziarenkiem piasku na nieskoñczonej wydmie! Ups. Nie ta gra s³ów. Ee, no dobrze, chyba ju¿ sobie pójdê.~
+@11 = ~Chyba siê zaraz rozp³aczê.~
+@12 = ~Chcesz poznaæ historiê mojego ¿ycia? Bardzo dobrze. Na pocz¹tku: urodzi³em siê...~
+@13 = ~W³aœciwie to nie pyta³em o twoj¹ biografiê, tylko co ty tu, na dziewiêæ piekie³, robisz. Tak ¿ebym wiedzia³, czy warto ciê zabijaæ.~~W³aœciwie to nie pyta³am o twoj¹ biografiê, tylko co ty tu, na dziewiêæ piekie³, robisz. Tak ¿ebym wiedzia³a, czy warto ciê zabijaæ.~
+@14 = ~Ee, przerywam z niechêci¹, ale czy mo¿emy skoñczyæ tê gadkê i przejœæ do czêœci, gdzie leje siê krew?~
+@15 = ~Och. A nie chcesz pos³uchaæ tragicznej historii mojej przesz³oœci?~
+@16 = ~Nieszczególnie. I tak zamierzam ciê zabiæ, wiêc co mnie obchodzi twoja tragiczna przesz³oœæ?~
+@17 = ~*wzdycha* No dobrze. Jakbym mia³ coœ lepszego do roboty. Na przyk³ad ratowanie elfiego miasta przed ob³¹kanym szaleñcem.~~*wzdycha* No dobrze. Jakbym mia³a coœ lepszego do roboty. Na przyk³ad ratowanie elfiego miasta przed ob³¹kanym szaleñcem.~
+@18 = ~Bardzo dobrze, marny œmiertelniku. Módl siê do swoich bogów, zanim ciê zmia¿d¿ê.~~Bardzo dobrze, marna œmiertelniczko. Módl siê do swoich bogów, zanim ciê zmia¿d¿ê.~
+@19 = ~No to co, czas na rozróbê!~
+@20 = ~Niech bêdzie, wszystko zaczê³o siê w Czasie Niepokojów, gdy bogowie chodzili po ziemi. Jak zapewne wiesz, zmar³y bóg Bhaal sp³odzi³ ze œmiertelnymi wiele dzieci, które mia³y pomóc w jego zmartwychwstaniu. Ja jestem jednym z tych dzieci, a moja matka by³a potê¿nym magiem w s³u¿bie jednej ze œwi¹tyñ Bhaala. Kiedy nadszed³ czas, by mnie z³o¿yæ w ofierze, matka nie znios³a tego i potajemnie mnie wykrad³a.~
+@21 = ~I czemu ma mnie to niby obchodziæ?~
+@22 = ~O rany, kolejny z mego rodzeñstwa z idiotycznymi marzeniami o podboju œwiata. No dalej, i tak to wszystko skoñczy siê rzezi¹~
+@23 = ~Cisza, œmiertelniku! Pozwól przemawiaæ lepszym od siebie. Ahem. Jak JU¯ mówi³em, moja matka wykrad³a mnie, ale zosta³a ciê¿ko ranna. Nied³ugo potem zmar³a, zostawiaj¹c mnie, ma³e dziecko, samego w tym okrutnym, okropnym œwiecie.~~Cisza, œmiertelniczko! Pozwól przemawiaæ lepszym od siebie. Ahem. Jak JU¯ mówi³em, moja matka wykrad³a mnie, ale zosta³a ciê¿ko ranna. Nied³ugo potem zmar³a, zostawiaj¹c mnie, ma³e dziecko, samego w tym okrutnym, okropnym œwiecie.~
+@24 = ~Dobra, mam doœæ tej ³zawej historyjki. Czas umieraæ.~
+@25 = ~Proszê, mów dalej, wygl¹da na to, ¿e mia³eœ naprawdê okropne dzieciñstwo.~
+@26 = ~Œmiesz traktowaæ mnie protekcjonalnie?! Masz choæ pojêcie, z kim zadar³eœ? Giñ, bezczelny!~~Œmiesz traktowaæ mnie protekcjonalnie?! Masz choæ pojêcie, z kim zadar³aœ? Giñ, bezczelna!~
+@27 = ~Ups. To akurat mog³em przewidzieæ.~~Ups. To akurat mog³am przewidzieæ.~
+@28 = ~Zabi³eœ mojego syna, wiêc teraz ja rozprawiê siê z tob¹ osobiœcie. Przygotuj siê na wieczne mêki! Brzmi zbyt melodramatycznie? Nie mogê jakoœ wyczuæ odpowiedniej intonacji.~~Zabi³aœ mojego syna, wiêc teraz ja rozprawiê siê z tob¹ osobiœcie. Przygotuj siê na wieczne mêki! Brzmi zbyt melodramatycznie? Nie mogê jakoœ wyczuæ odpowiedniej intonacji.~
+@29 = ~Trochê. Ta ca³a wiecznoœæ by³a chyba lekk¹ przesad¹, ale co tam, i tak zaraz bêdziemy siê szlachtowaæ...~
+@30 = ~Wcale nie. Przed chwil¹ posiekaliœmy twojego syna na malutkie kawa³eczki. A teraz czas na ciebie.~
+
+@44 = ~Bêdziesz p³akaæ? Zaczekaj, gdzieœ tu mam chusteczkê...~
+@45 = ~Grzebie w ogromnym plecaku...~
+@46 = ~Czekaj! Próbujesz mnie oszukaæ! Przecie¿ ja nawet nie mam chusteczki! Moi s³udzy was zniszcz¹.~
+@47 = ~Czy ja naprawdê nigdy nie mogê walczyæ z JAKIMŒ normalnym z³oczyñc¹? Naprawdê wymagam zbyt wiele?~
+@48 = ~Zaraz, nie mówcie mi, ¿e jesteœcie kolejn¹ band¹ œwiêtoszków, co zawsze wtykaj¹ nos w wielkie plany biednego Dzieciêcia Bhaala. Naprawdê nie macie NIC lepszego do roboty? Nie wiem, pomagaæ staruszkom przechodziæ przez ulicê czy coœ? Tak czy inaczej, przejmujê to miasto! I tym razem z³o ma ca³kiem niez³e szanse na wygran¹!~
+
+// dumayor.d
+// ---------
+@31 = ~B³agam, panie! Musicie ochroniæ nasz¹ biedn¹ wioskê! Na pó³noc st¹d pewien z³y mag przejmuje kolejne osady. Zamienia mieszkañców w niewolników swojej rosn¹cej armii! Ja zostanê tutaj i zorganizujê nasz¹ obronê. Reszta zebra³a siê ju¿ w gospodzie.~
+@32 = ~Oczywiœcie, zacny burmistrzu, przecie¿ nie ma opcji, ¿ebym odmówi³? (Kto pisze te durne kwestie?)~~Oczywiœcie, zacny burmistrzu, przecie¿ nie ma opcji, ¿ebym odmówi³a? (Kto pisze te durne kwestie?)~
+@33 = ~Nie s¹dzê. RadŸcie sobie sami.~
+@34 = ~Mój panie, po raz kolejny przychodzisz nam z pomoc¹ w godzinie potrzeby. Pamiêtaj proszê: jeœli moja ¿ona albo ja zginiemy, nasza mizerna obrona runie i wszystko bêdzie stracone. Chroñ nas za wszelk¹ cenê. Ha. Nareszcie g³upi cywile nie mog¹ zostaæ wyr¿niêci bez konsekwencji.~~Moja pani, po raz kolejny przychodzisz nam z pomoc¹ w godzinie potrzeby. Pamiêtaj proszê: jeœli moja ¿ona albo ja zginiemy, nasza mizerna obrona runie i wszystko bêdzie stracone. Chroñ nas za wszelk¹ cenê. Ha. Nareszcie g³upi cywile nie mog¹ zostaæ wyr¿niêci bez konsekwencji.~
+@35 = ~Oczywiœcie, burmistrzu. Nie lêkaj siê.~
+@36 = ~Proszê, mój panie, bez ciebie nie mamy ¿adnych szans!~~Proszê, moja pani, bez ciebie nie mamy ¿adnych szans!~
+@37 = ~Bardzo dobrze, ale spodziewam siê sowitej nagrody.~
+@38 = ~Szlag. W takim razie wygl¹da na to, ¿e faktycznie nie macie szans.~
+@39 = ~Dobrze. W takim razie przyjmujemy nasz los i oby bogowie pokarali ciê za to, co uczyni³eœ.~~Dobrze. W takim razie przyjmujemy nasz los i oby bogowie pokarali ciê za to, co uczyni³aœ.~
+@40 = ~Ha. Sam kszta³tujê swój los, niezale¿nie od kaprysów bogów.~~Ha. Sama kszta³tujê swój los, niezale¿nie od kaprysów bogów.~
+
+@50 = ~Dowodzi nimi potê¿ny mag Jugend. Ma dwóch poruczników: maga o imieniu Ayrus i maginiê Maiê. Ka¿de z nich prowadzi czêœæ jego armii. Kolejnymi posi³kami dowodzi jego syn. Uwa¿aj na niego, to groŸny wojownik, z którym nie warto zadzieraæ.~
+@51 = ~Mówi siê, ¿e jego armia jest niemal nieskoñczona, ale ¿eby sprowadzaæ posi³ki, jego dwaj porucznicy i syn musz¹ utrzymywaæ otwarte portale.~
+@52 = ~Zabijaj¹c jego syna, zamkniesz dwa dolne portale, a zabijaj¹c jego poruczników, zamkniesz trzy górne.~
+@53 = ~Chcesz, ¿ebym opowiedzia³ ci ca³¹ masê rzeczy o Jugendzie i jego armii, o których zgo³a nie powinienem mieæ pojêcia?~
+@54 = ~Jasne. Uwielbiam, kiedy postacie dok³adnie wyk³adaj¹ mi, co mam zrobiæ.~
+@55 = ~Nie, dziêki. Lubiê sam dochodziæ do pewnych rzeczy. No, chyba ¿e zginê piêæ czy szeœæ razy, wtedy wrócê po tê drug¹ opcjê.~ ~Nie, dziêki. Lubiê sama dochodziæ do pewnych rzeczy. No, chyba ¿e zginê piêæ czy szeœæ razy, wtedy wrócê po tê drug¹ opcjê.~
+@56 = ~Ci, którym wczeœniej przyszed³eœ z pomoc¹, teraz sami ci jej udziel¹. Wykorzystaj ich dobrze. Mamy tylko kilka minut, nim zaatakuj¹. I pamiêtaj, NIE POZWÓL MI ZGIN¥Æ. Powodzenia. Ten informator ulegnie samozniszczeniu za 5 sekund.~ ~Ci, którym wczeœniej przysz³aœ z pomoc¹, teraz sami ci jej udziel¹. Wykorzystaj ich dobrze. Mamy tylko kilka minut, nim zaatakuj¹. I pamiêtaj, NIE POZWÓL MI ZGIN¥Æ. Powodzenia. Ten informator ulegnie samozniszczeniu za 5 sekund.~
+@57 = ~Yyy. No tak. Dobrze...~
+@58 = ~Zatem powodzenia, mój panie. Do ataku zosta³o nam tylko kilka minut.~~Zatem powodzenia, moja pani. Do ataku zosta³o nam tylko kilka minut.~
+
+@88 = ~Dziêkujê, mój panie! Po raz kolejny ocali³eœ nasz¹ wioskê. Proszê, przyjmij to jako skromny dowód naszej wdziêcznoœci. Moja ¿ona i ja musimy teraz zaj¹æ siê reszt¹ mieszkañców.~~Dziêkujê, moja pani! Po raz kolejny ocali³aœ nasz¹ wioskê. Proszê, przyjmij to jako skromny dowód naszej wdziêcznoœci. Moja ¿ona i ja musimy teraz zaj¹æ siê reszt¹ mieszkañców.~
+@89 = ~Czemu to MY zawsze musimy WSZYSTKICH ratowaæ? A, racja. Bo by³oby potwornie nudno, gdybyœmy tylko ³azili, a ca³¹ robotê odwala³by ktoœ inny. Zupe³nie jak w moim prawdziwym ¿yciu.~
+
+// duwife.d
+// --------
+@59 = ~Aaa!!~
+
+@101 = ~Jeszcze raz nas uratowa³eœ, proszê, porozmawiaj z moim mê¿em.~~Jeszcze raz nas uratowa³aœ, proszê, porozmawiaj z moim mê¿em.~
+@102 = ~Dobrze, pani.~
+
+// dumad.d
+// -------
+@60 = ~Przyszliœmy dotrzymaæ naszej czêœci umowy. Pomo¿emy broniæ wioski. Powiedz nam, co mamy robiæ.~
+@61 = ~Œwietnie. Dziêkujê za pomoc, Madulfie.~
+
+@99 = ~Ju¿ po wszystkim. Kiedy skoñczymy pomagaæ ocala³ym, wrócimy na pó³noc od wioski.~
+@100 = ~Dziêkujê za pomoc, Madulfie.~
+
+// dudyrad.d
+// ---------
+@62 = ~Pozdrowienia, obroñco lasu. Duchy puszczy przyby³y, by wspomóc ciê przeciw z³u, które zagra¿a tej krainie.~~Pozdrowienia, obroñczyni lasu. Duchy puszczy przyby³y, by wspomóc ciê przeciw z³u, które zagra¿a tej krainie.~
+@63 = ~Ka¿da pomoc siê przyda. Przed nami wyj¹tkowo ciê¿ka walka.~
+
+// Seem to be unused
+// -----------------
+@41 = ~Jugend czerpie moc od jednego ze swych podw³adnych. Zosta³ ca³kowicie uleczony!~
+@42 = ~Jugend próbuje zaczerpn¹æ mocy od jednego ze swych podw³adnych, ale obaj ju¿ nie ¿yj¹!~
+@43 = ~Cholera. Burmistrz zgin¹³.~
+@49 = ~A teraz, mój panie, pozwól, ¿e opowiem ci, czego dowiedzia³em siê o naszych napastnikach...~~A teraz, moja pani, pozwól, ¿e opowiem ci, czego dowiedzia³em siê o naszych napastnikach...~
+
+
+/* --------- *
+ *  Scripts  *
+ * --------- */
+// duar1100.baf
+// ------------
+@98 = ~Ostatnie uderzenie powala Jugenda. Miasteczko Imnesvale znów jest bezpieczne. Oby wszyscy mieszkañcy wyszli z tego bez szwanku.~
+
+// duarim.baf, duayrus.baf, ducaster.baf, dufm.baf, dujug.baf, dumaia.baf, durak.baf
+// ---------------------------------------------------------------------------------
+@64 = ~Uaktywniony Wyzwalacz zaklêæ!~
+@65 = ~Wyzwolone Warunkowanie!~
+
+// duarim.baf
+// ----------
+@66 = ~Nie! TO TY umrzesz!~
+
+// dujug.baf
+// ---------
+@67 = ~KRÓLIKI?! To ostatni raz, kiedy kupujê na wyprzeda¿y warunkowanie na wypadek bliskiej œmierci!~

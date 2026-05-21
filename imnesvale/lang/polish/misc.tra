@@ -1,0 +1,150 @@
+/* ----------- *
+ *  Creatures  *
+ * ----------- */
+@101 = ~Wojownik~
+@102 = ~Mag~
+@103 = ~Kap³an~
+@104 = ~£ucznik~
+@105 = ~Wojownik/z³odziej~
+@106 = ~Barbarzyñca~
+@107 = ~Druid~
+@108 = ~Wojownik/mag~
+@109 = ~Rakshasa~
+@110 = ~Demon~
+@111 = ~Demon z Otch³ani~
+@112 = ~Arimayus~
+@113 = ~Maia~
+@114 = ~Jugend~
+@115 = ~Ayrus~
+@116 = ~Duch lasu~
+@117 = ~Madulf~
+@118 = ~Burmistrz Lloyd~
+@119 = ~Ogr~
+@120 = ~Minotaur~
+@121 = ~Gnoll~
+@122 = ~Ork~
+@123 = ~Pani Eina~
+@124 = ~Obroñca lasu~
+@125 = ~Pomiot 1~
+@126 = ~Pomiot 2~
+
+/* ------- *
+ *  Items  *
+ * ------- */
+@201 = ~Pierœcieñ~
+@202 = ~Pierœcieñ amfetaminy~
+@203 = ~To tylko pierœcieñ. Czego wiêcej potrzebujesz?~
+@204 = ~Pierœcieñ amfetaminy
+
+Wrrrooooommmmm!
+Ale daje kopa!
+Sprawia, ¿e atakujesz szybciej!
+
+PARAMETRY:
+
+Specjalne:
+– Ataki na rundê: +1/2
+– Zrêcznoœæ: +2
+
+Waga: 0~
+
+@211 = ~P³aszcz~
+@212 = ~Lustereczko, powiedz przecie~
+@213 = ~Kto w ogóle czyta opisy niezidentyfikowanych przedmiotów?~
+@214 = ~Lustereczko, powiedz przecie
+
+PARAMETRY:
+
+Specjalne:
+– Odbija wszystkie ataki dystansowe
+– Klasa Pancerza: +1
+
+Waga: 3~
+
+@221 = ~Szata~
+@222 = ~Szata maga bitewnego~
+@223 = ~Zidentyfikuj j¹.~
+@224 = ~Szata maga bitewnego 
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: 1
+– Prêdkoœæ rzucania czarów: +2
+– Ataki na rundê: +1/2
+– Odpornoœæ na obra¿enia obuchowe: +40%
+– Regeneracja: 1 pkt. ¿ycia co 3 sekundy
+– Odpornoœæ na obra¿enia sieczne: -10%
+– Odpornoœæ na obra¿enia k³ute: -25%
+– Pozwala zapamiêtaæ o jedno mniej zaklêcie maga z poziomów 1-6.
+
+Waga: 4~
+
+@231 = ~He³m~
+@232 = ~He³m œmiertelnoœci~
+@233 = ~Auæ~
+@234 = ~He³m œmiertelnoœci
+Ten niezwykle potê¿ny he³m zapewnia swojemu w³aœcicielowi imponuj¹ce ochrony.
+Niestety, by tego dokonaæ, he³m musi czerpaæ z jego w³asnej ¿ywotnoœci.
+
+PARAMETRY:
+
+Specjalne:
+– Odpornoœæ na Zatrzymanie czasu
+– Odpornoœæ na Uwiêzienie
+– Odpornoœæ na magiê: +50%
+– Maksymalna iloœæ punktów ¿ycia: -2 za KA¯DYM razem, gdy he³m zostaje za³o¿ony (efekt trwa³y)
+– Maksymalna iloœæ punktów ¿ycia: -20, gdy jest noszony
+– Kondycja: ustawiona na 5
+
+Waga: 2~
+
+@241 = ~Bransolety~
+@242 = ~Szybko! szybko!~
+@243 = ~Co?~
+@244 = ~Szybko! szybko!
+
+Ooo, ca³kiem sprytny efekt. Szkoda tylko, ¿e nie trafisz stodo³y nawet z piêciu kroków.
+
+PARAMETRY:
+
+Specjalne:
+– Ulepszone przyspieszenie ruchów
+– TraK0: -5
+
+Waga: 2~
+
+@251 = ~Zbrojne wytchnienie~
+@252 = ~Jeœli uda³o ci siê zdobyæ Zbrojne wytchnienie, mo¿esz odczuwaæ dumê – NIEZWYKLE trudno tego dokonaæ.
+Jeœli jednak wi¹za³o siê to z oszustwem, niech ci siê gra wywali do pulpitu!
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed wszystkimi klasami wojownika
+– Klasa pancerza: +4
+– Odpornoœæ na obra¿enia k³ute, obuchowe i sieczne: +25%
+
+Waga: 0~
+
+@261 = ~Magiczne wytchnienie~
+@262 = ~Jeœli uda³o ci siê zdobyæ Magiczne wytchnienie, mo¿esz odczuwaæ dumê – NIEZWYKLE trudno tego dokonaæ.
+Jeœli jednak wi¹za³o siê to z oszustwem, niech ci siê gra wywali do pulpitu!
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed wszystkimi klasami maga
+– Odpornoœæ na magiê: +80%
+– Odpornoœæ na Zatrzymanie czasu
+
+Waga: 0~
+
+
+
+/* ================= *
+ *  Usability flags  *
+ * ================= */
+@9001 = ~[Mm]o¿e[ %tab%]+[u]¿ywaæ[%tab%]*:~
+@9002 = ~\(Nie[ %tab%]+\|m\)[Mm]o¿e[ %tab%]+[u]¿ywaæ[%tab%]*:~
+
